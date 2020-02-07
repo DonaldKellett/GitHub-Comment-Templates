@@ -1,5 +1,7 @@
 # GitHub-Comment-Templates
 
+A repository of templates for GitHub comments, useful for certain common scenarios
+
 ## For (public) Codewars solutions repositories
 
 ```markdown
